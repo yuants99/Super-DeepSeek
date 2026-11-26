@@ -16,6 +16,11 @@
 > 项目受到 DeepSeek ChatDemo 的启发并基于其前端继续开发；模型推理能力完全依赖 DeepSeek API。
 > 本 App 自身不收集、不上传你的个人信息；使用 API 时的数据处理规则以 DeepSeek 官方政策为准。
 
+<p align="center">
+  <a href="https://eyuihiu.github.io/Super-DeepSeek/"><b>▶ 在线体验 Web 预览版</b></a><br>
+  <sub>需自备 API Key；Web 版不包含原生菜单与保存面板，完整功能请下载 macOS App。</sub>
+</p>
+
 ## 目录
 
 - [给普通用户](#给普通用户)
