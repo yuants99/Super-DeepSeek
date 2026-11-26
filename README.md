@@ -17,7 +17,7 @@
 > 本 App 自身不收集、不上传你的个人信息；使用 API 时的数据处理规则以 DeepSeek 官方政策为准。
 
 <p align="center">
-  <a href="https://eyuihiu.github.io/Super-DeepSeek/"><b>▶ 在线体验 Web 预览版</b></a><br>
+  <a href="https://yuants99.github.io/Super-DeepSeek/"><b>▶ 在线体验 Web 预览版</b></a><br>
   <sub>需自备 API Key；Web 版不包含原生菜单与保存面板，完整功能请下载 macOS App。</sub>
 </p>
 
@@ -48,7 +48,7 @@ Super DeepSeek 是一个把 DeepSeek API 包装成原生 macOS 应用的客户�
 
 ## 五分钟开始
 
-1. 从 [Releases](https://github.com/EyuiHiu/Super-DeepSeek/releases) 下载最新的 `.dmg`；
+1. 从 [Releases](https://github.com/yuants99/Super-DeepSeek/releases) 下载最新的 `.dmg`；
 2. 打开 DMG，把 **Super DeepSeek.app** 拖进「应用程序」；
 3. 第一次打开时，在 App 上右键 → **打开**（应用未公证，系统提示属于正常现象）；
 4. 打开「设置 → API Key」，填入你的 DeepSeek API Key；
