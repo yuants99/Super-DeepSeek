@@ -1,0 +1,62 @@
+.banner {
+  position: fixed;
+  top: 10px;
+  right: 12px;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  max-width: min(520px, calc(100vw - 24px));
+  padding: 5px 8px 5px 10px;
+  border: 1px solid var(--dsw-alias-border-l2);
+  border-radius: 10px;
+  background-color: var(--dsw-specific-selector);
+  color: var(--dsw-alias-label-secondary);
+  font-size: 11px;
+  line-height: 18px;
+}
+
+.icon {
+  display: inline-flex;
+  flex-shrink: 0;
+  color: var(--dsw-alias-label-tertiary);
+}
+
+.label {
+  flex-shrink: 0;
+  color: var(--dsw-alias-label-primary);
+  font-weight: 600;
+}
+
+.separator {
+  flex-shrink: 0;
+  width: 1px;
+  height: 12px;
+  background-color: var(--dsw-alias-border-l2);
+}
+
+.text {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--dsw-alias-label-tertiary);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.exit {
+  flex-shrink: 0;
+  margin-left: 2px;
+  padding: 1px 6px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--dsw-alias-label-secondary);
+  font: inherit;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.exit:hover {
+  background-color: var(--dsw-alias-interactive-bg-hover);
+  color: var(--dsw-alias-label-primary);
+}

@@ -1,0 +1,26 @@
+# Dependencies and build outputs
+node_modules/
+chat-demo/dist/
+macapp/build/
+*.dmg
+*.app
+*.xcarchive
+
+# Private data: never commit archives, exports, or keys
+deepseek_merged-*.zip
+*.zip
+*.dsarchive
+*.dsprofile
+*.log
+audit-out/
+*.pem
+*.p12
+*.mobileprovision
+.env
+.env.*
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
