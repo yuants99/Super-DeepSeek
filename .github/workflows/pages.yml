@@ -53,10 +53,9 @@ jobs:
       - name: Disable Jekyll processing
         run: touch dist/.nojekyll
 
+      # Pages must be enabled in Settings → Pages → Source: GitHub Actions.
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
