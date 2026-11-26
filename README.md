@@ -2,7 +2,7 @@
 
 **非官方出品 · Unofficial Project**
 
-> 一个面向 macOS 的非官方 DeepSeek ChatBot 客户端：本地优先、原生窗口、完整的对话与个性化体验。
+> 一个面向 macOS 的非官方 DeepSeek ChatBot 客户端：本地优先，专注个性化表达、模型参数设定、长期记忆与每对话独立设置。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-macOS%2012%2B%20Apple%20Silicon-black)
